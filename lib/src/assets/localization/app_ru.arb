@@ -1,0 +1,45 @@
+{
+    "language": "Русский",
+
+    "authenticationScreen_hello": "Привет!",
+    "authenticationScreen_loginInvitation": "Войдите а приложение\nудобным для вас способом",
+    "authenticationScreen_InProcessInvitation": "Подождите пожалуйста",
+    "authenticationScreen_logoutInvitation": "Во можете выйти из приложения",
+    "authenticationScreen_errorInvitation": "Ошибка. Пожалуйста, попробуйте ещё раз чуть позже. ",
+    "authenticationScreen_optionGoogle": "GOOGLE",
+    "authenticationScreen_optionVkontakte": "ВКОНТАКТЕ",
+    "authenticationScreen_optionPhoneNumber": "НОМЕР ТЕЛЕФОНА",
+    "authenticationScreen_support": "Поддержка",
+    "authenticationScreen_privacyPolicyAndUserAgreementsIntro": "Регистрируясь в Wokka Lokka, вы принимаете условия ",
+    "authenticationScreen_privacyPolicy": "Пользовательского соглашения ",
+    "authenticationScreen_authenticationScreen_privacyPolicyAndUserAgreementsAnd": "и ",
+    "authenticationScreen_userAgreement": "Политики конфиденциальности",
+
+    "privacyPolicyModal_headerTitle": "Политика конфиденциальности",
+
+    "userAgreementModal_headerTitle": "Пользовательское соглашение",
+
+    "countryCodeSelectorModal_headerTitle": "Код страны",
+
+    "phoneNumberAuthenticationScreen_authenticationHeaderTitle": "Вход",
+    "phoneNumberAuthenticationScreen_phoneNumberPlaceholder": "Номер телефона",
+    "phoneNumberAuthenticationScreen_passwordPlaceholder": "Пароль",
+    "phoneNumberAuthenticationScreen_smsHint": "На этот номер поступит SMS с паролем",
+    "phoneNumberAuthenticationScreen_registerButton": "ЗАРЕГИСТРИРОВАТЬСЯ",
+    "phoneNumberAuthenticationScreen_signInButton": "ВОЙТИ",
+    "phoneNumberAuthenticationScreen_requestPassword": "Запросить пароль",
+    "phoneNumberAuthenticationScreen_notInWokkaLokkaYet": "Ещё не в Wokka Lokka?",
+    "phoneNumberAuthenticationScreen_registerNow": "Зарегистрируйтесь сейчас",
+
+    "logoutScreen_optionLogout": "ВЫХОД",
+
+    "supportScreen_headerTitle": "Поддержка",
+    "supportScreen_invitationMessage": "Введите ваше сообщение и адрес электронной почты для обратной связи",
+    "supportScreen_askInTelegramButton": "Спросить в Telegram",
+    "supportScreen_sendButton": "ОТПРАВИТЬ",
+    "supportScreen_attachFileButton": "Прикрепить файл",
+    "supportScreen_emailPlaceholder": "Введите e-mail",
+    "supportScreen_messagePlaceholder": "Ваше сообщение 0 из 500",
+    "supportScreen_fileAttached": "Файл добавлен",
+    "supportScreen_removeAttachedFile": "Удалить"
+}

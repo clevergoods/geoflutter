@@ -1,0 +1,45 @@
+{
+    "language": "English",
+
+    "authenticationScreen_hello": "Hello!",
+    "authenticationScreen_loginInvitation": "Log in to the app\nin a way that is convenient for you",
+    "authenticationScreen_InProcessInvitation": "PLease wait",
+    "authenticationScreen_logoutInvitation": "You can log out of the app",
+    "authenticationScreen_errorInvitation": "Error. Please try again later",
+    "authenticationScreen_optionGoogle": "GOOGLE",
+    "authenticationScreen_optionVkontakte": "VKONTAKTE",
+    "authenticationScreen_optionPhoneNumber": "PHONE NUMBER",
+    "authenticationScreen_support": "Support",
+    "authenticationScreen_privacyPolicyAndUserAgreementsIntro": "By registering with Wokka Lokka, you accept the terms and conditions of ",
+    "authenticationScreen_privacyPolicy": "User agreement ",
+    "authenticationScreen_authenticationScreen_privacyPolicyAndUserAgreementsAnd": "and ",
+    "authenticationScreen_userAgreement": "Privacy policies",
+
+    "privacyPolicyModal_headerTitle": "Privacy policy",
+
+    "userAgreementModal_headerTitle": "User agreement",
+
+    "countryCodeSelectorModal_headerTitle": "Country code",
+
+    "phoneNumberAuthenticationScreen_authenticationHeaderTitle": "Sign In",
+    "phoneNumberAuthenticationScreen_phoneNumberPlaceholder": "Phone number",
+    "phoneNumberAuthenticationScreen_passwordPlaceholder": "Password",
+    "phoneNumberAuthenticationScreen_smsHint": "An SMS with a password will be sent to this number",
+    "phoneNumberAuthenticationScreen_registerButton": "REGISTER",
+    "phoneNumberAuthenticationScreen_signInButton": "SIGN IN",
+    "phoneNumberAuthenticationScreen_requestPassword": "Request password",
+    "phoneNumberAuthenticationScreen_notInWokkaLokkaYet": "Not in Wokka Lokka yet?",
+    "phoneNumberAuthenticationScreen_registerNow": "Register now",
+
+    "logoutScreen_optionLogout": "LOGOUT",
+
+    "supportScreen_headerTitle": "Support",
+    "supportScreen_invitationMessage": "Enter your message and email address for feedback",
+    "supportScreen_askInTelegramButton": "Ask in Telegram",
+    "supportScreen_sendButton": "SEND",
+    "supportScreen_attachFileButton": "Attach file",
+    "supportScreen_emailPlaceholder": "Enter your e-mail",
+    "supportScreen_messagePlaceholder": "Your message 0 of 500",
+    "supportScreen_fileAttached": "File attached",
+    "supportScreen_removeAttachedFile": "Remove"
+}

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "799225296482",
+    "project_id": "wlflutter",
+    "storage_bucket": "wlflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799225296482:android:b6a517a351ba2f5d69033b",
+        "android_client_info": {
+          "package_name": "com.wokkalokka.clevergoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799225296482-0ob5mehcei1e5f5cmgftok27l65ufi0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wokkalokka.clevergoods",
+            "certificate_hash": "41d757aaa8919b538272e3cc7e59b72a98873286"
+          }
+        },
+        {
+          "client_id": "799225296482-3h48nc4k98d3gn9c2v4vvvqoobb3rvgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wokkalokka.clevergoods",
+            "certificate_hash": "eb7dd9a207050c12459ff7884d9848bc782eefec"
+          }
+        },
+        {
+          "client_id": "799225296482-i24364ncighq7168cv28i2msgn8s63ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wokkalokka.clevergoods",
+            "certificate_hash": "d7832ce942cfb316114e4e5edccfdc46ef189842"
+          }
+        },
+        {
+          "client_id": "799225296482-16055j38nfdujsjeeb7f6qllporanvgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHQglhf3mdbKXviy8-AphYKQ61X5Ka3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799225296482-16055j38nfdujsjeeb7f6qllporanvgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
